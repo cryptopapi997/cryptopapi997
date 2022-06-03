@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there 👋!
+### Currently working on composable privacy on Solana over at [Elusiv](https://github.com/https://github.com/elusiv-privacy)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nschapeler&show_icons=true)
 
-## For general blockchain stuff ⧫🔗₿, some of my favorites are:
+
+## For (older) general blockchain stuff, some of my favorites are:
 
 [Using Ethereum with Android](https://github.com/nschapeler/Ethereum-Android-Intro)
 
